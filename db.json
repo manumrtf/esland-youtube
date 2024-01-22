@@ -1,0 +1,164 @@
+{
+  "categories": [
+    {
+      "name": "clip del año",
+      "candidates": [
+        {
+          "name": "auronplay",
+          "clip_cover": "clip_auronplay_1.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "CrystalMolly",
+          "clip_cover": "clip_crystalmolly_1.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "Gemita",
+          "clip_cover": "clip_gemita_1.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "Guanyar",
+          "clip_cover": "clip_guanyar_1.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "IlloJuan y elBokeron",
+          "clip_cover": "clip_IlloJuan_elBokeron_1.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "Lacuevadepaink",
+          "clip_cover": "clip_lacuevadepaink_1.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "PipePunk",
+          "clip_cover": "clip_pipepunk_1.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "Repta Live",
+          "clip_cover": "clip_reptalive_1.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "Rubius",
+          "clip_cover": "clip_rubius_1.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "xCry",
+          "clip_cover": "clip_xcry_1.png",
+          "clip_media": "https://youtube.com"
+        }
+      ],
+      "id": "4ec5"
+    },
+    {
+      "name": "Enfado del año",
+      "candidates": [
+        {
+          "name": "agustin51",
+          "clip_cover": "enfado_agustin.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "DjMaRiiO",
+          "clip_cover": "enfado_djmario.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "elxokas",
+          "clip_cover": "enfado_xokas.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "Ibai y Messi",
+          "clip_cover": "enfado_ibaimessi.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "Nissaxter",
+          "clip_cover": "enfado_nissaxter.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "PipePunk",
+          "clip_cover": "enfado_pipepunk.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "rickyedit",
+          "clip_cover": "enfado_rickyedit.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "rivers_gg",
+          "clip_cover": "enfado_riversgg.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "sezarbluelive",
+          "clip_cover": "enfado_sezarbluelive.png",
+          "clip_media": "https://youtube.com"
+        },
+        {
+          "name": "WestCOL",
+          "clip_cover": "enfado_westcol.png",
+          "clip_media": "https://youtube.com"
+        }
+      ],
+      "id": "7d61"
+    }
+  ],
+  "votes": [
+    {
+      "id": "6b0c",
+      "user": "user1",
+      "votes": [
+        {
+          "candidate": "auronplay",
+          "category": "clip del año",
+          "position": 1
+        },
+        {
+          "candidate": "Guanyar",
+          "category": "clip del año",
+          "position": 2
+        },
+        {
+          "candidate": "Gemita",
+          "category": "clip del año",
+          "position": 3
+        },
+        {
+          "candidate": "Lacuevadepaink",
+          "category": "clip del año",
+          "position": 4
+        },
+        {
+          "candidate": "PipePunk",
+          "category": "Enfado del año",
+          "position": 1
+        },
+        {
+          "candidate": "Nissaxter",
+          "category": "Enfado del año",
+          "position": 2
+        },
+        {
+          "candidate": "rivers_gg",
+          "category": "Enfado del año",
+          "position": 3
+        },
+        {
+          "candidate": "rickyedit",
+          "category": "Enfado del año",
+          "position": 4
+        }
+      ]
+    }
+  ]
+}
